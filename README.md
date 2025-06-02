@@ -25,7 +25,7 @@
   <a href="#"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ffff&label=Profile+Views&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Eyad107Hussein&color=00ffff&label=Visitors)
 
 ---
 
@@ -45,7 +45,7 @@
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 #### 🔧 Tools & Platforms
@@ -59,7 +59,7 @@
 #### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -67,13 +67,6 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eyad107Hussein&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyad107Hussein&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
----
-
-### 📫 Contact Me
-
-- 📧 **Email:** your.email@example.com  
-- 💼 **LinkedIn:** [Your LinkedIn](#)  
