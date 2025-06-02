@@ -17,11 +17,7 @@
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
