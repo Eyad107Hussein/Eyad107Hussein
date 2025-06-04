@@ -15,10 +15,22 @@
 ### 🌐 Social Media
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/iyed_107" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/905441728988" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:m.eyad.hussein1126@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 
 
